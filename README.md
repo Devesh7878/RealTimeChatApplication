@@ -43,19 +43,18 @@ Typing "bye" closes the connection.
 **Demo Screenshots:**
 
 🖥️ Server Message Output:
-![WhatsApp Image 2025-07-08 at 14 54 53_6042291f](https://github.com/user-attachments/assets/c337c2f1-71f3-4d96-9b59-7e82caebf306)
-
-
-
+![WhatsApp Image 2025-07-08 at 14 54 53_6ed606d6](https://github.com/user-attachments/assets/8ba9e19b-7dd2-44ae-8a05-a1f25430409f)
 
 
 💬 Client Message Output:
-![WhatsApp Image 2025-07-08 at 14 55 12_d6ee266a](https://github.com/user-attachments/assets/614fb0c7-ae44-41bf-82fa-cf1c6b5a9c7d)
+![WhatsApp Image 2025-07-08 at 14 55 12_f4f26372](https://github.com/user-attachments/assets/445f4294-da59-4379-8b13-2fb6e9f1a52e)
+
 
 
 
 🕐 Server Busy Auto Reply (During 12–4 PM):
-![WhatsApp Image 2025-07-08 at 14 56 42_7a91466b](https://github.com/user-attachments/assets/e95c9dd1-d812-40e3-ad19-6ef8d9d2b730)
+![WhatsApp Image 2025-07-08 at 14 56 42_d684ab0b](https://github.com/user-attachments/assets/c9dd2195-5d0f-4df4-9590-8843127b284c)
+
 
 
 
